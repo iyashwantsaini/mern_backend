@@ -1,0 +1,10 @@
+{
+    "env": {
+        "DB_USER" : "yash",
+        "DB_PASSWORD" : "mernapp",
+        "DB_NAME" : "test",
+        "GOOGLE_API_KEY" : "AIzaSyBNPsuYO0tr4R3HgnwJu0RrIweLS4ajAJY",
+        "JWT_KEY" : "super_secret_key_for_encryption"
+        
+    }
+}
